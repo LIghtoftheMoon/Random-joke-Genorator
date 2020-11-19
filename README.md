@@ -10,3 +10,5 @@ This project is created with
 
 ### Launch
 To run this project, install it locally.
+If you have VSCode just hit run.
+Otherwise you'll have to launch the code and find the output in terminal.
